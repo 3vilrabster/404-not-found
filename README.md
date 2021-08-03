@@ -62,5 +62,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](http://annboen.online)
-- GitHub [@your-username](https://github.com/3vilrabster)
+- Website Ann Boen [online](http://annboen.online)
+- GitHub [@3vilrabster](https://github.com/3vilrabster)
