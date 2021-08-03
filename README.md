@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="http://annboen.online/devchallenges/404-not-found/index.html" target="_blank>
       Demo
     </a>
     <span> | </span>
